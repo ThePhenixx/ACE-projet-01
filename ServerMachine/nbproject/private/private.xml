@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/hp/Desktop/5éme%20année/Architecture%20des%20composantes%20d'entreprises/Project01/ServerMachine/src/config/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/hp/Desktop/5éme%20année/Architecture%20des%20composantes%20d'entreprises/Project01/ServerMachine/src/service/SalleService.java</file>
+            <file>file:/C:/Users/hp/Desktop/5éme%20année/Architecture%20des%20composantes%20d'entreprises/Project01/ServerMachine/src/servermachine/ServerMachine.java</file>
+            <file>file:/C:/Users/hp/Desktop/5éme%20année/Architecture%20des%20composantes%20d'entreprises/Project01/ServerMachine/src/entities/Machine.java</file>
+            <file>file:/C:/Users/hp/Desktop/5éme%20année/Architecture%20des%20composantes%20d'entreprises/Project01/ServerMachine/src/service/MachineService.java</file>
+            <file>file:/C:/Users/hp/Desktop/5éme%20année/Architecture%20des%20composantes%20d'entreprises/Project01/ServerMachine/src/dao/IDao.java</file>
+            <file>file:/C:/Users/hp/Desktop/5éme%20année/Architecture%20des%20composantes%20d'entreprises/Project01/ServerMachine/src/util/HibernateUtil.java</file>
+            <file>file:/C:/Users/hp/Desktop/5éme%20année/Architecture%20des%20composantes%20d'entreprises/Project01/ServerMachine/src/entities/Salle.java</file>
+            <file>file:/C:/Users/hp/Desktop/5éme%20année/Architecture%20des%20composantes%20d'entreprises/Project01/ServerMachine/src/serversalle/ServerSalle.java</file>
+        </group>
+    </open-files>
+</project-private>
